@@ -24,14 +24,14 @@
 .habilidades .container-habilidades .informacoes:hover p,
 .habilidades .container-habilidades .informacoes:hover h3,
 .habilidades .container-habilidades .informacoes:hover .logo i{
-    color: var(--cor-primaria);
+    color: var(--cor-secundaria);
 }
 
 .habilidades .container-habilidades .informacoes h3 {
     font-size: var(--fonte-extra-grande);
     font-weight: 500;
     margin-bottom: 20px;
-    color: var(--cor-primaria);      
+    color: var(--cor-secundaria);      
 }
 
 .habilidades .container-habilidades .informacoes p {
