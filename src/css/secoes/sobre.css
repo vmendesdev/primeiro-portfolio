@@ -21,7 +21,9 @@
     align-self: center; 
 }
 
-
+.sobre-mim .informacoes-sobre-mim .botoes {
+    margin-top: 50px;
+}
 
 .sobre-mim .informacoes-sobre-mim p {
     font-size: 1.8rem;
