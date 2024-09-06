@@ -129,7 +129,7 @@
 
    .header nav ul {
         display: none;        
-        background-color: var(--cor-fundo-escuro);         
+        background-color: var(--cor-fundo-cinza-escuro);         
         padding: 20px;       
     }
     
@@ -139,4 +139,8 @@
         padding: 20px;
         display: block;
     }
+}
+
+.sobre-mim .informacoes-sobre-mim .botoes {
+    margin-top: 50px;
 }
